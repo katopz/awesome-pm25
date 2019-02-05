@@ -3,6 +3,7 @@
 
 ## Air Quality Monitoring
 - Bangkok Air Pollution: Real-time Air Quality Index (AQI) : https://aqicn.org/city/bangkok/
+- openSenseMap is a platform for open sensor data at which everyone can participate in : https://opensensemap.org/
 
 ## DIY Air Purifier (เครื่องฟอกอากาศ)
 - สร้างเครื่องฟอกอากาศเอื้ออาทรสู้ฝุ่น PM2.5 เองในราคาพันนิด ๆ พร้อมข้อควรระวัง : https://nuuneoi.com/blog/blog.php?read_id=959
