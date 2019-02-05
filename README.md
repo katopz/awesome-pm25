@@ -22,3 +22,4 @@
 - PMS7003 ($18) : https://www.facebook.com/SIT.Family/posts/10156283926493789
 - SEN0177 (2,000 บาท) : https://www.facebook.com/SIT.Family/posts/10156280106438789
 - HPMA115S0-XXX (1,750 บาท) : https://www.facebook.com/HomeOfMaker/posts/888148901379526
+- PM Sensor SENSIRION SPS30 ([$46.95](https://www.sparkfun.com/products/15103)) : [Boonsan Ti](https://web.facebook.com/boonsanti.th) จ่ายแพงหน่อยแต่ได้ ความค้มค่าที่ 1 Lifetime > 8 years ถือว่าคุ้มค่ามากถ้าเทียบกับค่า MA ที่จะมีในอนาคตหลังติดตั้ง ความคุ้มค่าที่ 2 การเชื่อมต่อ (Interface) มี 2 แบบ UART, I2C สะดวกและยืดหยุ่นในการเชื่อมต่อกับ IoT MCU หลายยี่ห้อ หลายรุ่นเพราะ IoT MCU บางรุ่นอาจมี SerialPort มาให้แค่ 1 Port ถ้าไม่อยากใช้ Software Serial ก็สามารถเชื่อมต่อผ่าน I2C ได้เลย : https://www.sensirion.com/en/environmental-sensors/particulate-matter-sensors-pm25/
