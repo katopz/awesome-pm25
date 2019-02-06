@@ -14,6 +14,7 @@
 ## Data 🔬
 - Air4Thai API wit Python : https://github.com/codeforthailand/datasource-air4thai
 - PM2.5 กับ Data science : https://medium.com/@gaingain/pm2-5-กับ-data-science-ac1a89940a19
+- บทความแนะนำการวิเคราะห์ข้อมูลคุณภาพอากาศ PM2.5 ด้วยสถิติเชิงพื้นที่บนโปรแกรม Qgis # ตอนที่ 2 เกี่ยวกับ spatial interpolation และการทำ spatial regression : https://www.facebook.com/groups/qgisthailand/permalink/3010497165642636/
 
 ## Device 🖲
 - สรุปขั้นตอนการดึงข้อมูลจาก Xiaomi Smart Air Quality Monitor PM2.5 Detector : http://www.somkiat.cc/pm2-5-from-xiaomi-smart-air-quality/
